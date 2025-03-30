@@ -2,7 +2,7 @@ import { ProcessList } from "./ProcessList"
 
 export const SectionInformative = () => {
   return (
-    <section className="w-full px-6 py-10 md:px-12 lg:px-36 flex flex-col space-y-14 md:h-screen justify-center">
+    <section className="w-full px-6 py-10 md:px-12 lg:px-36 flex flex-col space-y-14">
 
         <div className="text-center">
             <h2 className="font-extrabold text-2xl">Gestion de Calidad y Procesos</h2>
